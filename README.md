@@ -24,9 +24,14 @@ This is a simple number guessing game implemented in C. Players need to guess a 
 - C compiler (e.g., gcc)
 - Standard C libraries
 
+## Contributors
+
+- [Maneesha Gunarathna](https://github.com/maneeshaYasinth)
+- [Kavindu Pabasara](https://www.linkedin.com/in/kavindu-pabasara-66a18125b/)
+- [Eshan Viduranga](https://www.linkedin.com/in/eshan-viduranga-1284282b0/)
+
 ## Usage
 
 ```bash
 gcc -o number_guessing_game number_guessing_game.c
 ./number_guessing_game
-
